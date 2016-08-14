@@ -3,13 +3,13 @@
 
 // ** MySQL settings ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'technical_interview');
+define('DB_NAME', 'wordpress');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'homestead');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'candidate');
+define('DB_PASSWORD', 'secret');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

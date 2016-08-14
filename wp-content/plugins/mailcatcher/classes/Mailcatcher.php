@@ -34,7 +34,7 @@ class Mailcatcher {
 		);
 
 		$config = wp_parse_args($config, $defaults);
-		
+
 		// Setup mailer
 
 		$this->setupMail($config);

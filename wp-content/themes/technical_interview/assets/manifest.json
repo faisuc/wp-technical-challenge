@@ -22,6 +22,6 @@
     }
   },
   "config": {
-    "devUrl": "http://technical-interview.dev"
+    "devUrl": "http://wordpress.app:8000/"
   }
 }
